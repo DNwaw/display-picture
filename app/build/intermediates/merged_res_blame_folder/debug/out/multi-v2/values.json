@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/lr/GitHub/091WuBiP/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/lr/GitHub/091WuBiP/app/src/main/res/values/ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                },
+                {
+                    "source": "/home/lr/GitHub/091WuBiP/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "281"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "154",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "418"
+                    }
+                },
+                {
+                    "source": "/home/lr/GitHub/091WuBiP/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "41",
+                        "endOffsets": "93"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "112",
+                        "endColumns": "41",
+                        "endOffsets": "149"
+                    }
+                }
+            ]
+        }
+    ]
+}

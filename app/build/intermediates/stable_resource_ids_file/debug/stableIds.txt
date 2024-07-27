@@ -1,0 +1,8 @@
+com.dnwaw.displaypicture:style/AppTheme = 0x7f070000
+com.dnwaw.displaypicture:string/app_name = 0x7f060000
+com.dnwaw.displaypicture:id/activity_main_webview = 0x7f030000
+com.dnwaw.displaypicture:layout/activity_main = 0x7f040000
+com.dnwaw.displaypicture:drawable/ic_launcher_foreground = 0x7f020000
+com.dnwaw.displaypicture:mipmap/ic_launcher_round = 0x7f050001
+com.dnwaw.displaypicture:mipmap/ic_launcher = 0x7f050000
+com.dnwaw.displaypicture:color/ic_launcher_background = 0x7f010000

@@ -1,0 +1,7 @@
+#Sat Jul 27 15:11:40 CST 2024
+base.0=/home/lr/GitHub/091WuBiP/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.1=/home/lr/GitHub/091WuBiP/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
+path.0=0/classes.dex
+path.1=12/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
